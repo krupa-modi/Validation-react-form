@@ -11,3 +11,34 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.css-1c2i806-MuiFormLabel-root-MuiInputLabel-root,
+.css-tsx28r-MuiFormLabel-root,
+.css-rm5fm8-MuiFormLabel-root,
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root
+{
+  color: black !important;
+  font-weight: 800 !important;
+}
+.css-1x51dt5-MuiInputBase-input-MuiInput-input{
+  color:#242424 !important;
+  font-weight: 500 !important;
+}
+.css-ahj2mt-MuiTypography-root
+{
+  color: black !important;
+  font-weight: 500 !important;
+}
+.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root{
+  color:black !important;
+  font-weight: bold !important;
+}
+.css-1o9s3wi-MuiInputBase-input-MuiOutlinedInput-input{
+  color:black !important;
+}
+.css-1coh8cf-MuiTypography-root{
+  color: black !important;
+  font-weight: 500 !important;
+}
+.css-19kzrtu{
+  padding:0 !important;
+}
